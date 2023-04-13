@@ -181,7 +181,7 @@ void AddTextToFile(std::string inputFileName, std::string outputFileName)
         }
         else if (userInput == 'n') 
         {
-            std::cout << "By-by" << std::endl;
+            std::cout << "Bye-bye" << std::endl;
             exit(0);
         }
         else 
